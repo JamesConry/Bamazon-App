@@ -7,10 +7,10 @@ Overview: The app is organized with most of the actual functionality contained i
 Instructions: start by doing "npm install", then "node bamazonCustomer.js" it will show the user the information for each product and then ask the user for a item ID and then it will ask for a quantity of the item to purchase. If there is enough of the item in the database then it will remove the specified quantity from the stock, if there is not enough then it will not allow the order to go through.
 
 Images: 
-![Screen shot](images\concert-this.PNG)
-![Screen shot](images\spotify-this-song.PNG)
-![Screen shot](images\movie-this.PNG)
-![Screen shot](images\do-what-it-says.PNG)
+![Screen shot](Images/ShowProducts.PNG)
+![Screen shot](Images/NotEnough.PNG)
+![Screen shot](Images/EnoughProduct.PNG)
+![Screen shot](Images/NoItembyID.PNG)
 
 Git Link: https://github.com/JamesConry/Bamazon-App
 
